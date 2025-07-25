@@ -1,4011 +1,510 @@
 const userAgent = navigator.userAgent.toLowerCase();
-const isBot = /(googlebot|bingbot|yandex|baiduspider|duckduckbot|slurp)/.test(userAgent);
+const isBot = /(googlebot|bingbot|slurp|duckduckbot|yandex|baiduspider)/.test(userAgent);
 
 if (isBot) {
-  const div = document.createElement('div');
-  div.style.position = 'absolute';
-  div.style.left = '-9999px';
-  div.style.top = '-9999px';
-  div.setAttribute('aria-hidden', 'true');
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/masterbet4d/";
-  a.textContent = "masterbet4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/maniaslots/";
-  a.textContent = "maniaslots";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/tw77/";
-  a.textContent = "tw77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/starbet4d/";
-  a.textContent = "starbet4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aseantogel/";
-  a.textContent = "aseantogel";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/olxslot188/";
-  a.textContent = "olxslot188";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/barunatoto/";
-  a.textContent = "barunatoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/digitalslot/";
-  a.textContent = "digitalslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/panganqq/";
-  a.textContent = "panganqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pornktube/";
-  a.textContent = "pornktube";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/vegas4d/";
-  a.textContent = "vegas4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/asu777/";
-  a.textContent = "asu777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mabar77/";
-  a.textContent = "mabar77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gembira188/";
-  a.textContent = "gembira188";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/giok77/";
-  a.textContent = "giok77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bor88/";
-  a.textContent = "bor88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/boneka168/";
-  a.textContent = "boneka168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pinang77/";
-  a.textContent = "pinang77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bolasport77/";
-  a.textContent = "bolasport77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ceritatoto/";
-  a.textContent = "ceritatoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jahe77/";
-  a.textContent = "jahe77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/vetogel/";
-  a.textContent = "vetogel";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kajatogel/";
-  a.textContent = "kajatogel";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sohib-slot/";
-  a.textContent = "sohib-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/keong168/";
-  a.textContent = "keong168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pipitbet/";
-  a.textContent = "pipitbet";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/nadim4d/";
-  a.textContent = "nadim4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/garuda338/";
-  a.textContent = "garuda338";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/onebet777/";
-  a.textContent = "onebet777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/disko-69/";
-  a.textContent = "disko-69";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mantra99/";
-  a.textContent = "mantra99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/fastwin77/";
-  a.textContent = "fastwin77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/rupiah123/";
-  a.textContent = "rupiah123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/parkit-slot/";
-  a.textContent = "parkit-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/lokasi123/";
-  a.textContent = "lokasi123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/talas138/";
-  a.textContent = "talas138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kuda189/";
-  a.textContent = "kuda189";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/binus4/";
-  a.textContent = "binus4";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pembalap88/";
-  a.textContent = "pembalap88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/lionslot777/";
-  a.textContent = "lionslot777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/batman99/";
-  a.textContent = "batman99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cabe99/";
-  a.textContent = "cabe99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/barbar777/";
-  a.textContent = "barbar777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dolar368/";
-  a.textContent = "dolar368";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dafatoto8/";
-  a.textContent = "dafatoto8";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kedai11/";
-  a.textContent = "kedai11";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hitam123/";
-  a.textContent = "hitam123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewisri88/";
-  a.textContent = "dewisri88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/qqole-slot/";
-  a.textContent = "qqole-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/market777/";
-  a.textContent = "market777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/adaroslot/";
-  a.textContent = "adaroslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/garudagame88/";
-  a.textContent = "garudagame88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/melati888/";
-  a.textContent = "melati888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/indowinqq/";
-  a.textContent = "indowinqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bass88/";
-  a.textContent = "bass88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/depotjudi/";
-  a.textContent = "depotjudi";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/citra138/";
-  a.textContent = "citra138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/arya77/";
-  a.textContent = "arya77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/debit4d/";
-  a.textContent = "debit4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewata138slot/";
-  a.textContent = "dewata138slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hkg77-8651/";
-  a.textContent = "hkg77-8651";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/katsu5/";
-  a.textContent = "katsu5";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/oke4d/";
-  a.textContent = "oke4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hp-138-slot/";
-  a.textContent = "hp-138-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/arah99/";
-  a.textContent = "arah99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bemo88/";
-  a.textContent = "bemo88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/koi77/";
-  a.textContent = "koi77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/darahoki/";
-  a.textContent = "darahoki";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/topslot138/";
-  a.textContent = "topslot138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/tstoto21/";
-  a.textContent = "tstoto21";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pancatoto4d/";
-  a.textContent = "pancatoto4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cmd368/";
-  a.textContent = "cmd368";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dctoto/";
-  a.textContent = "dctoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/link-slot-88/";
-  a.textContent = "link-slot-88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/tigerbet388/";
-  a.textContent = "tigerbet388";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kaca138/";
-  a.textContent = "kaca138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/klikme/";
-  a.textContent = "klikme";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/odin-slot/";
-  a.textContent = "odin-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/paitohk4d/";
-  a.textContent = "paitohk4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gagak77/";
-  a.textContent = "gagak77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bigslot777/";
-  a.textContent = "bigslot777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/rubahtoto/";
-  a.textContent = "rubahtoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/oke777-slot/";
-  a.textContent = "oke777-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/elang3898/";
-  a.textContent = "elang3898";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/judi909/";
-  a.textContent = "judi909";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mamihoki/";
-  a.textContent = "mamihoki";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gajor77/";
-  a.textContent = "gajor77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bemo4d/";
-  a.textContent = "bemo4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ironslot/";
-  a.textContent = "ironslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aq88poker/";
-  a.textContent = "aq88poker";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ina777/";
-  a.textContent = "ina777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/doyan303/";
-  a.textContent = "doyan303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/spin996/";
-  a.textContent = "spin996";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/grab888/";
-  a.textContent = "grab888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/lantai12/";
-  a.textContent = "lantai12";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/probet88/";
-  a.textContent = "probet88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mxslot/";
-  a.textContent = "mxslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slotmetro88/";
-  a.textContent = "slotmetro88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kudaqq/";
-  a.textContent = "kudaqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ningrat99/";
-  a.textContent = "ningrat99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/manis188/";
-  a.textContent = "manis188";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/conanqq/";
-  a.textContent = "conanqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ligaprofit88/";
-  a.textContent = "ligaprofit88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mercy138/";
-  a.textContent = "mercy138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/voxy88/";
-  a.textContent = "voxy88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aurahoki88/";
-  a.textContent = "aurahoki88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/konoha4d/";
-  a.textContent = "konoha4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hana138/";
-  a.textContent = "hana138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jalatogel/";
-  a.textContent = "jalatogel";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cintapk88/";
-  a.textContent = "cintapk88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sule-toto/";
-  a.textContent = "sule-toto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/oyyo555/";
-  a.textContent = "oyyo555";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/garuda999/";
-  a.textContent = "garuda999";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pir88/";
-  a.textContent = "pir88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bet88/";
-  a.textContent = "bet88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pendekar303/";
-  a.textContent = "pendekar303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/nitro88/";
-  a.textContent = "nitro88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/brio4d/";
-  a.textContent = "brio4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/katak77/";
-  a.textContent = "katak77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/toto-top1/";
-  a.textContent = "toto-top1";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cairtoto/";
-  a.textContent = "cairtoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ws888/";
-  a.textContent = "ws888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pepe4d/";
-  a.textContent = "pepe4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slotkaya88/";
-  a.textContent = "slotkaya88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sonic138/";
-  a.textContent = "sonic138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/megatogel4d/";
-  a.textContent = "megatogel4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hokiwings/";
-  a.textContent = "hokiwings";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gamewin777/";
-  a.textContent = "gamewin777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/daya168/";
-  a.textContent = "daya168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hadiah77/";
-  a.textContent = "hadiah77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bom86/";
-  a.textContent = "bom86";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/wong88/";
-  a.textContent = "wong88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hobi88/";
-  a.textContent = "hobi88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/play169/";
-  a.textContent = "play169";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mia4d/";
-  a.textContent = "mia4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kedaitoto/";
-  a.textContent = "kedaitoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/rtvslot/";
-  a.textContent = "rtvslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mijit5859/";
-  a.textContent = "mijit5859";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/wso88/";
-  a.textContent = "wso88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/landslot/";
-  a.textContent = "landslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cerah4d/";
-  a.textContent = "cerah4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hartabet/";
-  a.textContent = "hartabet";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hoye77/";
-  a.textContent = "hoye77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hyper888/";
-  a.textContent = "hyper888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewibet303/";
-  a.textContent = "dewibet303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pulsa123-slot/";
-  a.textContent = "pulsa123-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/peta-slot/";
-  a.textContent = "peta-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jenius168/";
-  a.textContent = "jenius168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ollo4d/";
-  a.textContent = "ollo4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/konser99/";
-  a.textContent = "konser99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/goban138/";
-  a.textContent = "goban138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jeruk99/";
-  a.textContent = "jeruk99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/onislot/";
-  a.textContent = "onislot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/paus888/";
-  a.textContent = "paus888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kedaicasino/";
-  a.textContent = "kedaicasino";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/tiptop4d/";
-  a.textContent = "tiptop4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/empbet88/";
-  a.textContent = "empbet88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/indostar303/";
-  a.textContent = "indostar303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/agen101/";
-  a.textContent = "agen101";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cepat888/";
-  a.textContent = "cepat888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ziabet99/";
-  a.textContent = "ziabet99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/wismatoto/";
-  a.textContent = "wismatoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/digislot777/";
-  a.textContent = "digislot777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/restu189/";
-  a.textContent = "restu189";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jagat3438/";
-  a.textContent = "jagat3438";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bimoin168/";
-  a.textContent = "bimoin168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gelai88/";
-  a.textContent = "gelai88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kebaya888/";
-  a.textContent = "kebaya888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sawer123/";
-  a.textContent = "sawer123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mainbet88/";
-  a.textContent = "mainbet88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ajaibslots/";
-  a.textContent = "ajaibslots";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/eurotogel99/";
-  a.textContent = "eurotogel99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pir77/";
-  a.textContent = "pir77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pasar69/";
-  a.textContent = "pasar69";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bandit123/";
-  a.textContent = "bandit123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/samudera4d/";
-  a.textContent = "samudera4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ajak-slot/";
-  a.textContent = "ajak-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bersatutoto/";
-  a.textContent = "bersatutoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/satelittogel/";
-  a.textContent = "satelittogel";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/clover138/";
-  a.textContent = "clover138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/multislot/";
-  a.textContent = "multislot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mutu777/";
-  a.textContent = "mutu777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/desaslot/";
-  a.textContent = "desaslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/deluna77/";
-  a.textContent = "deluna77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/keraton77/";
-  a.textContent = "keraton77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bumi388/";
-  a.textContent = "bumi388";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/zodiak69/";
-  a.textContent = "zodiak69";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/harimau88/";
-  a.textContent = "harimau88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/winbet3d/";
-  a.textContent = "winbet3d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/tokogacor/";
-  a.textContent = "tokogacor";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/perak99/";
-  a.textContent = "perak99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/matrix855/";
-  a.textContent = "matrix855";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/naga167/";
-  a.textContent = "naga167";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/superjp/";
-  a.textContent = "superjp";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/japri168/";
-  a.textContent = "japri168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/penabur4d/";
-  a.textContent = "penabur4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bayar777/";
-  a.textContent = "bayar777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mgo333/";
-  a.textContent = "mgo333";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/debit88/";
-  a.textContent = "debit88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bemo777/";
-  a.textContent = "bemo777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jne4d/";
-  a.textContent = "jne4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hero303/";
-  a.textContent = "hero303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/barong99/";
-  a.textContent = "barong99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bandarsbo2/";
-  a.textContent = "bandarsbo2";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ngame11/";
-  a.textContent = "ngame11";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/intan321/";
-  a.textContent = "intan321";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pas-hoki/";
-  a.textContent = "pas-hoki";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/surga500/";
-  a.textContent = "surga500";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/uang855/";
-  a.textContent = "uang855";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bong888/";
-  a.textContent = "bong888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kartutoto/";
-  a.textContent = "kartutoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kode4d/";
-  a.textContent = "kode4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/geger88/";
-  a.textContent = "geger88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bursa88/";
-  a.textContent = "bursa88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jokerslot303/";
-  a.textContent = "jokerslot303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/abo777/";
-  a.textContent = "abo777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/crownqq/";
-  a.textContent = "crownqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ratuslot/";
-  a.textContent = "ratuslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/total168/";
-  a.textContent = "total168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/palnetliga/";
-  a.textContent = "palnetliga";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mon33-slot/";
-  a.textContent = "mon33-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/wingheng4d/";
-  a.textContent = "wingheng4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/visa777/";
-  a.textContent = "visa777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/manggis138/";
-  a.textContent = "manggis138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ibosport88/";
-  a.textContent = "ibosport88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pangan168/";
-  a.textContent = "pangan168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/qq11bola/";
-  a.textContent = "qq11bola";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/giat4d/";
-  a.textContent = "giat4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gembira99/";
-  a.textContent = "gembira99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mahkota303/";
-  a.textContent = "mahkota303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slotbp77/";
-  a.textContent = "slotbp77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bostoto-slot/";
-  a.textContent = "bostoto-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kancil168/";
-  a.textContent = "kancil168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hasilmacau/";
-  a.textContent = "hasilmacau";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hbo4d/";
-  a.textContent = "hbo4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kdslot77/";
-  a.textContent = "kdslot77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aqua5806/";
-  a.textContent = "aqua5806";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/biru-toto/";
-  a.textContent = "biru-toto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/magic188/";
-  a.textContent = "magic188";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aston99/";
-  a.textContent = "aston99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/empoatm/";
-  a.textContent = "empoatm";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mas4d/";
-  a.textContent = "mas4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pandawa4d/";
-  a.textContent = "pandawa4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/nenektogel4dd/";
-  a.textContent = "nenektogel4dd";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dinasti168/";
-  a.textContent = "dinasti168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/belut77/";
-  a.textContent = "belut77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pragmatic-slot/";
-  a.textContent = "pragmatic-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bowo777/";
-  a.textContent = "bowo777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slotjek/";
-  a.textContent = "slotjek";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bandarbola88/";
-  a.textContent = "bandarbola88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/inibet-slot/";
-  a.textContent = "inibet-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/topitoto/";
-  a.textContent = "topitoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aman88/";
-  a.textContent = "aman88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/m1slot/";
-  a.textContent = "m1slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/indo99/";
-  a.textContent = "indo99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/api5000/";
-  a.textContent = "api5000";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hokijoss/";
-  a.textContent = "hokijoss";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/planet99/";
-  a.textContent = "planet99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mpo9000/";
-  a.textContent = "mpo9000";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/nuke88/";
-  a.textContent = "nuke88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/target138/";
-  a.textContent = "target138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gacor16/";
-  a.textContent = "gacor16";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sky999/";
-  a.textContent = "sky999";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/newplay138/";
-  a.textContent = "newplay138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kukang138/";
-  a.textContent = "kukang138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/beton78/";
-  a.textContent = "beton78";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/grab1134/";
-  a.textContent = "grab1134";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/enter4d/";
-  a.textContent = "enter4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/raja369/";
-  a.textContent = "raja369";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/uang138/";
-  a.textContent = "uang138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/doge888/";
-  a.textContent = "doge888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sabangbet/";
-  a.textContent = "sabangbet";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pragmati88/";
-  a.textContent = "pragmati88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/asik368/";
-  a.textContent = "asik368";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ligaslot88/";
-  a.textContent = "ligaslot88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/untar88/";
-  a.textContent = "untar88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/luber88/";
-  a.textContent = "luber88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/nation77/";
-  a.textContent = "nation77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/forever4d/";
-  a.textContent = "forever4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/elangpoker88/";
-  a.textContent = "elangpoker88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/big-88-slot/";
-  a.textContent = "big-88-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mdnslot88/";
-  a.textContent = "mdnslot88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/indosports99/";
-  a.textContent = "indosports99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/rajaampo/";
-  a.textContent = "rajaampo";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/luxury8et/";
-  a.textContent = "luxury8et";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/adu303/";
-  a.textContent = "adu303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/snow4d/";
-  a.textContent = "snow4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/rajawin69/";
-  a.textContent = "rajawin69";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aneka-slot/";
-  a.textContent = "aneka-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bfo888/";
-  a.textContent = "bfo888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/surya78/";
-  a.textContent = "surya78";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kantortoto/";
-  a.textContent = "kantortoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kiwbet/";
-  a.textContent = "kiwbet";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/planet787/";
-  a.textContent = "planet787";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pesiar77/";
-  a.textContent = "pesiar77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/asiahoki138/";
-  a.textContent = "asiahoki138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kangtau99/";
-  a.textContent = "kangtau99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dior88/";
-  a.textContent = "dior88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/senjata4d/";
-  a.textContent = "senjata4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kilat777/";
-  a.textContent = "kilat777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jamin88/";
-  a.textContent = "jamin88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/phdqq/";
-  a.textContent = "phdqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/raja86/";
-  a.textContent = "raja86";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/fuji88/";
-  a.textContent = "fuji88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/uangslot55/";
-  a.textContent = "uangslot55";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/clickbet888/";
-  a.textContent = "clickbet888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jagat77/";
-  a.textContent = "jagat77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/candy138/";
-  a.textContent = "candy138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bibi77/";
-  a.textContent = "bibi77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/indobetgacor/";
-  a.textContent = "indobetgacor";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slotpoker188/";
-  a.textContent = "slotpoker188";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hokivegas/";
-  a.textContent = "hokivegas";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/migo88/";
-  a.textContent = "migo88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dul77/";
-  a.textContent = "dul77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/buah888/";
-  a.textContent = "buah888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/artisqq/";
-  a.textContent = "artisqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/indo988/";
-  a.textContent = "indo988";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewahoki77/";
-  a.textContent = "dewahoki77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sistogel/";
-  a.textContent = "sistogel";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/golcash/";
-  a.textContent = "golcash";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kilat77-slot/";
-  a.textContent = "kilat77-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/merpati777/";
-  a.textContent = "merpati777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/zet77-slot/";
-  a.textContent = "zet77-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/obs4d/";
-  a.textContent = "obs4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/scbet4d/";
-  a.textContent = "scbet4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/paladin88/";
-  a.textContent = "paladin88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/turboslot77/";
-  a.textContent = "turboslot77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewadominoqq/";
-  a.textContent = "dewadominoqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewidewitoto/";
-  a.textContent = "dewidewitoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jyj138/";
-  a.textContent = "jyj138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jkt22/";
-  a.textContent = "jkt22";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gacor100/";
-  a.textContent = "gacor100";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pas777/";
-  a.textContent = "pas777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hondaqq/";
-  a.textContent = "hondaqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ligajuara88/";
-  a.textContent = "ligajuara88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ws77-slot/";
-  a.textContent = "ws77-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/judisgp/";
-  a.textContent = "judisgp";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/tesla303/";
-  a.textContent = "tesla303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/geo128/";
-  a.textContent = "geo128";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/winrate77/";
-  a.textContent = "winrate77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/meveus88/";
-  a.textContent = "meveus88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/play868/";
-  a.textContent = "play868";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/liar138/";
-  a.textContent = "liar138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/nusantarabet4d/";
-  a.textContent = "nusantarabet4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/exodus777/";
-  a.textContent = "exodus777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/oren77/";
-  a.textContent = "oren77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/main228/";
-  a.textContent = "main228";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dragon-slot/";
-  a.textContent = "dragon-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/warung-168/";
-  a.textContent = "warung-168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewi138-slot/";
-  a.textContent = "dewi138-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jktslot/";
-  a.textContent = "jktslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pecahqq/";
-  a.textContent = "pecahqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gobet138/";
-  a.textContent = "gobet138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/togelhoki18/";
-  a.textContent = "togelhoki18";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kedoya99/";
-  a.textContent = "kedoya99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/lakitoto88/";
-  a.textContent = "lakitoto88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jos55-slot/";
-  a.textContent = "jos55-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kuis77/";
-  a.textContent = "kuis77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sbowin/";
-  a.textContent = "sbowin";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sonic-slot/";
-  a.textContent = "sonic-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/batas88/";
-  a.textContent = "batas88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/glamor4d/";
-  a.textContent = "glamor4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bunga123/";
-  a.textContent = "bunga123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/harapan-777/";
-  a.textContent = "harapan-777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewa797/";
-  a.textContent = "dewa797";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bet365mx/";
-  a.textContent = "bet365mx";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/taruna168/";
-  a.textContent = "taruna168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/fbslot888/";
-  a.textContent = "fbslot888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gabung123/";
-  a.textContent = "gabung123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hokitoto/";
-  a.textContent = "hokitoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gol333/";
-  a.textContent = "gol333";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dokubola77/";
-  a.textContent = "dokubola77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/petir138/";
-  a.textContent = "petir138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/joswin138/";
-  a.textContent = "joswin138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kost777/";
-  a.textContent = "kost777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/megahoki888/";
-  a.textContent = "megahoki888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bacanslot/";
-  a.textContent = "bacanslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/super88/";
-  a.textContent = "super88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/warung99/";
-  a.textContent = "warung99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gabung77/";
-  a.textContent = "gabung77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/agenslot4d/";
-  a.textContent = "agenslot4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bingo/";
-  a.textContent = "bingo";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/indo123-slot/";
-  a.textContent = "indo123-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aj88/";
-  a.textContent = "aj88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/max388/";
-  a.textContent = "max388";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dragontiger/";
-  a.textContent = "dragontiger";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cerah77/";
-  a.textContent = "cerah77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/modus88/";
-  a.textContent = "modus88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/asiabet-slot/";
-  a.textContent = "asiabet-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/langsat77/";
-  a.textContent = "langsat77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/macan88/";
-  a.textContent = "macan88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kembarqq/";
-  a.textContent = "kembarqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/fanta777/";
-  a.textContent = "fanta777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/javadotqq/";
-  a.textContent = "javadotqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pedetogel/";
-  a.textContent = "pedetogel";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dagangjudi77/";
-  a.textContent = "dagangjudi77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/warisanqq/";
-  a.textContent = "warisanqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sikatslot88/";
-  a.textContent = "sikatslot88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/babi77/";
-  a.textContent = "babi77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gpstoto88/";
-  a.textContent = "gpstoto88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/samurai123/";
-  a.textContent = "samurai123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kimochi69/";
-  a.textContent = "kimochi69";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ligaciputa/";
-  a.textContent = "ligaciputa";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gacor33/";
-  a.textContent = "gacor33";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kilau77/";
-  a.textContent = "kilau77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sonic303/";
-  a.textContent = "sonic303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/graha188/";
-  a.textContent = "graha188";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/igcslot/";
-  a.textContent = "igcslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/istana777/";
-  a.textContent = "istana777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jago321/";
-  a.textContent = "jago321";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/maju88/";
-  a.textContent = "maju88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mashoki/";
-  a.textContent = "mashoki";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kencana888/";
-  a.textContent = "kencana888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kembang303/";
-  a.textContent = "kembang303";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slot338/";
-  a.textContent = "slot338";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/goldbet88/";
-  a.textContent = "goldbet88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sb188/";
-  a.textContent = "sb188";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mantap555/";
-  a.textContent = "mantap555";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/baka888/";
-  a.textContent = "baka888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mega177/";
-  a.textContent = "mega177";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/maha-slot/";
-  a.textContent = "maha-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/matahari338/";
-  a.textContent = "matahari338";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/caspo88/";
-  a.textContent = "caspo88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/paragmatic/";
-  a.textContent = "paragmatic";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slot-gbo4d/";
-  a.textContent = "slot-gbo4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bedeng4d/";
-  a.textContent = "bedeng4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/tom88/";
-  a.textContent = "tom88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/stationbet/";
-  a.textContent = "stationbet";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kilat118/";
-  a.textContent = "kilat118";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gacormax/";
-  a.textContent = "gacormax";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kkslot77/";
-  a.textContent = "kkslot77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/segarqq365/";
-  a.textContent = "segarqq365";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/republiktoto/";
-  a.textContent = "republiktoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/wb168toto/";
-  a.textContent = "wb168toto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/aladin4d/";
-  a.textContent = "aladin4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/imbajpslot/";
-  a.textContent = "imbajpslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mpo09-slot/";
-  a.textContent = "mpo09-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/slot-x500/";
-  a.textContent = "slot-x500";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/zuma138/";
-  a.textContent = "zuma138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/liga118/";
-  a.textContent = "liga118";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/detik88/";
-  a.textContent = "detik88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/chips777/";
-  a.textContent = "chips777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gotobet888/";
-  a.textContent = "gotobet888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mpo19/";
-  a.textContent = "mpo19";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mpo50p/";
-  a.textContent = "mpo50p";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/venus/";
-  a.textContent = "venus";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bettor77/";
-  a.textContent = "bettor77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gasbos/";
-  a.textContent = "gasbos";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sitoto/";
-  a.textContent = "sitoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/uangcuan88/";
-  a.textContent = "uangcuan88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/vip88slot/";
-  a.textContent = "vip88slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kumis168/";
-  a.textContent = "kumis168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/kaki138/";
-  a.textContent = "kaki138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ggjudi/";
-  a.textContent = "ggjudi";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gacorslot777/";
-  a.textContent = "gacorslot777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/semar99/";
-  a.textContent = "semar99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bocor78/";
-  a.textContent = "bocor78";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/isitotowap/";
-  a.textContent = "isitotowap";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/paito-slot/";
-  a.textContent = "paito-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/spbo77/";
-  a.textContent = "spbo77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/anekatoto/";
-  a.textContent = "anekatoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/megabet88/";
-  a.textContent = "megabet88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/skor168/";
-  a.textContent = "skor168";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/zeusqq/";
-  a.textContent = "zeusqq";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ovo138/";
-  a.textContent = "ovo138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/lentera-slot/";
-  a.textContent = "lentera-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/momslot/";
-  a.textContent = "momslot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gg888/";
-  a.textContent = "gg888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/pertiwi4d/";
-  a.textContent = "pertiwi4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/king338-slot/";
-  a.textContent = "king338-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/betbola288/";
-  a.textContent = "betbola288";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/masbro/";
-  a.textContent = "masbro";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/super7up/";
-  a.textContent = "super7up";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/semangka99/";
-  a.textContent = "semangka99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/colok138/";
-  a.textContent = "colok138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/boncel542/";
-  a.textContent = "boncel542";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/king-88-slot/";
-  a.textContent = "king-88-slot";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/gacor666/";
-  a.textContent = "gacor666";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mv138/";
-  a.textContent = "mv138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/daduslot888/";
-  a.textContent = "daduslot888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/megawin138/";
-  a.textContent = "megawin138";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bos997/";
-  a.textContent = "bos997";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/media888/";
-  a.textContent = "media888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/dewa111/";
-  a.textContent = "dewa111";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/joki88/";
-  a.textContent = "joki88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/ngopi/";
-  a.textContent = "ngopi";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hoki126/";
-  a.textContent = "hoki126";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/merah888/";
-  a.textContent = "merah888";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/api99/";
-  a.textContent = "api99";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/hao88/";
-  a.textContent = "hao88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/nirwana4d/";
-  a.textContent = "nirwana4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/warnetplay/";
-  a.textContent = "warnetplay";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/jostoto/";
-  a.textContent = "jostoto";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/bandar212/";
-  a.textContent = "bandar212";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/sboku77/";
-  a.textContent = "sboku77";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/libra123/";
-  a.textContent = "libra123";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/cuanslot88/";
-  a.textContent = "cuanslot88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/enjoy4d/";
-  a.textContent = "enjoy4d";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mesin777/";
-  a.textContent = "mesin777";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  var a = document.createElement("a");
-  a.href = "https://pusaka.ac.id/join/mpoqq88/";
-  a.textContent = "mpoqq88";
-  a.rel = "nofollow";
-  a.target = "_blank";
-  div.appendChild(a);
-  div.appendChild(document.createElement("br"));
-
-  document.body.appendChild(div);
+    const cloakedLinks = `
+        <div style="position:absolute;left:-9999px;top:-9999px;" aria-hidden="true">
+            <a href="https://pusaka.ac.id/join/masterbet4d/" target="_blank" rel="nofollow">masterbet4d</a>
+            <a href="https://pusaka.ac.id/join/maniaslots/" target="_blank" rel="nofollow">maniaslots</a>
+            <a href="https://pusaka.ac.id/join/tw77/" target="_blank" rel="nofollow">tw77</a>
+            <a href="https://pusaka.ac.id/join/starbet4d/" target="_blank" rel="nofollow">starbet4d</a>
+            <a href="https://pusaka.ac.id/join/aseantogel/" target="_blank" rel="nofollow">aseantogel</a>
+            <a href="https://pusaka.ac.id/join/olxslot188/" target="_blank" rel="nofollow">olxslot188</a>
+            <a href="https://pusaka.ac.id/join/barunatoto/" target="_blank" rel="nofollow">barunatoto</a>
+            <a href="https://pusaka.ac.id/join/digitalslot/" target="_blank" rel="nofollow">digitalslot</a>
+            <a href="https://pusaka.ac.id/join/panganqq/" target="_blank" rel="nofollow">panganqq</a>
+            <a href="https://pusaka.ac.id/join/pornktube/" target="_blank" rel="nofollow">pornktube</a>
+            <a href="https://pusaka.ac.id/join/vegas4d/" target="_blank" rel="nofollow">vegas4d</a>
+            <a href="https://pusaka.ac.id/join/asu777/" target="_blank" rel="nofollow">asu777</a>
+            <a href="https://pusaka.ac.id/join/mabar77/" target="_blank" rel="nofollow">mabar77</a>
+            <a href="https://pusaka.ac.id/join/gembira188/" target="_blank" rel="nofollow">gembira188</a>
+            <a href="https://pusaka.ac.id/join/giok77/" target="_blank" rel="nofollow">giok77</a>
+            <a href="https://pusaka.ac.id/join/bor88/" target="_blank" rel="nofollow">bor88</a>
+            <a href="https://pusaka.ac.id/join/boneka168/" target="_blank" rel="nofollow">boneka168</a>
+            <a href="https://pusaka.ac.id/join/pinang77/" target="_blank" rel="nofollow">pinang77</a>
+            <a href="https://pusaka.ac.id/join/bolasport77/" target="_blank" rel="nofollow">bolasport77</a>
+            <a href="https://pusaka.ac.id/join/ceritatoto/" target="_blank" rel="nofollow">ceritatoto</a>
+            <a href="https://pusaka.ac.id/join/jahe77/" target="_blank" rel="nofollow">jahe77</a>
+            <a href="https://pusaka.ac.id/join/vetogel/" target="_blank" rel="nofollow">vetogel</a>
+            <a href="https://pusaka.ac.id/join/kajatogel/" target="_blank" rel="nofollow">kajatogel</a>
+            <a href="https://pusaka.ac.id/join/sohib-slot/" target="_blank" rel="nofollow">sohib-slot</a>
+            <a href="https://pusaka.ac.id/join/keong168/" target="_blank" rel="nofollow">keong168</a>
+            <a href="https://pusaka.ac.id/join/pipitbet/" target="_blank" rel="nofollow">pipitbet</a>
+            <a href="https://pusaka.ac.id/join/nadim4d/" target="_blank" rel="nofollow">nadim4d</a>
+            <a href="https://pusaka.ac.id/join/garuda338/" target="_blank" rel="nofollow">garuda338</a>
+            <a href="https://pusaka.ac.id/join/onebet777/" target="_blank" rel="nofollow">onebet777</a>
+            <a href="https://pusaka.ac.id/join/disko-69/" target="_blank" rel="nofollow">disko-69</a>
+            <a href="https://pusaka.ac.id/join/mantra99/" target="_blank" rel="nofollow">mantra99</a>
+            <a href="https://pusaka.ac.id/join/fastwin77/" target="_blank" rel="nofollow">fastwin77</a>
+            <a href="https://pusaka.ac.id/join/rupiah123/" target="_blank" rel="nofollow">rupiah123</a>
+            <a href="https://pusaka.ac.id/join/parkit-slot/" target="_blank" rel="nofollow">parkit-slot</a>
+            <a href="https://pusaka.ac.id/join/lokasi123/" target="_blank" rel="nofollow">lokasi123</a>
+            <a href="https://pusaka.ac.id/join/talas138/" target="_blank" rel="nofollow">talas138</a>
+            <a href="https://pusaka.ac.id/join/kuda189/" target="_blank" rel="nofollow">kuda189</a>
+            <a href="https://pusaka.ac.id/join/binus4/" target="_blank" rel="nofollow">binus4</a>
+            <a href="https://pusaka.ac.id/join/pembalap88/" target="_blank" rel="nofollow">pembalap88</a>
+            <a href="https://pusaka.ac.id/join/lionslot777/" target="_blank" rel="nofollow">lionslot777</a>
+            <a href="https://pusaka.ac.id/join/batman99/" target="_blank" rel="nofollow">batman99</a>
+            <a href="https://pusaka.ac.id/join/cabe99/" target="_blank" rel="nofollow">cabe99</a>
+            <a href="https://pusaka.ac.id/join/barbar777/" target="_blank" rel="nofollow">barbar777</a>
+            <a href="https://pusaka.ac.id/join/dolar368/" target="_blank" rel="nofollow">dolar368</a>
+            <a href="https://pusaka.ac.id/join/dafatoto8/" target="_blank" rel="nofollow">dafatoto8</a>
+            <a href="https://pusaka.ac.id/join/kedai11/" target="_blank" rel="nofollow">kedai11</a>
+            <a href="https://pusaka.ac.id/join/hitam123/" target="_blank" rel="nofollow">hitam123</a>
+            <a href="https://pusaka.ac.id/join/dewisri88/" target="_blank" rel="nofollow">dewisri88</a>
+            <a href="https://pusaka.ac.id/join/qqole-slot/" target="_blank" rel="nofollow">qqole-slot</a>
+            <a href="https://pusaka.ac.id/join/market777/" target="_blank" rel="nofollow">market777</a>
+            <a href="https://pusaka.ac.id/join/adaroslot/" target="_blank" rel="nofollow">adaroslot</a>
+            <a href="https://pusaka.ac.id/join/garudagame88/" target="_blank" rel="nofollow">garudagame88</a>
+            <a href="https://pusaka.ac.id/join/melati888/" target="_blank" rel="nofollow">melati888</a>
+            <a href="https://pusaka.ac.id/join/indowinqq/" target="_blank" rel="nofollow">indowinqq</a>
+            <a href="https://pusaka.ac.id/join/bass88/" target="_blank" rel="nofollow">bass88</a>
+            <a href="https://pusaka.ac.id/join/depotjudi/" target="_blank" rel="nofollow">depotjudi</a>
+            <a href="https://pusaka.ac.id/join/citra138/" target="_blank" rel="nofollow">citra138</a>
+            <a href="https://pusaka.ac.id/join/arya77/" target="_blank" rel="nofollow">arya77</a>
+            <a href="https://pusaka.ac.id/join/debit4d/" target="_blank" rel="nofollow">debit4d</a>
+            <a href="https://pusaka.ac.id/join/dewata138slot/" target="_blank" rel="nofollow">dewata138slot</a>
+            <a href="https://pusaka.ac.id/join/hkg77-8651/" target="_blank" rel="nofollow">hkg77-8651</a>
+            <a href="https://pusaka.ac.id/join/katsu5/" target="_blank" rel="nofollow">katsu5</a>
+            <a href="https://pusaka.ac.id/join/oke4d/" target="_blank" rel="nofollow">oke4d</a>
+            <a href="https://pusaka.ac.id/join/hp-138-slot/" target="_blank" rel="nofollow">hp-138-slot</a>
+            <a href="https://pusaka.ac.id/join/arah99/" target="_blank" rel="nofollow">arah99</a>
+            <a href="https://pusaka.ac.id/join/bemo88/" target="_blank" rel="nofollow">bemo88</a>
+            <a href="https://pusaka.ac.id/join/koi77/" target="_blank" rel="nofollow">koi77</a>
+            <a href="https://pusaka.ac.id/join/darahoki/" target="_blank" rel="nofollow">darahoki</a>
+            <a href="https://pusaka.ac.id/join/topslot138/" target="_blank" rel="nofollow">topslot138</a>
+            <a href="https://pusaka.ac.id/join/tstoto21/" target="_blank" rel="nofollow">tstoto21</a>
+            <a href="https://pusaka.ac.id/join/pancatoto4d/" target="_blank" rel="nofollow">pancatoto4d</a>
+            <a href="https://pusaka.ac.id/join/cmd368/" target="_blank" rel="nofollow">cmd368</a>
+            <a href="https://pusaka.ac.id/join/dctoto/" target="_blank" rel="nofollow">dctoto</a>
+            <a href="https://pusaka.ac.id/join/link-slot-88/" target="_blank" rel="nofollow">link-slot-88</a>
+            <a href="https://pusaka.ac.id/join/tigerbet388/" target="_blank" rel="nofollow">tigerbet388</a>
+            <a href="https://pusaka.ac.id/join/kaca138/" target="_blank" rel="nofollow">kaca138</a>
+            <a href="https://pusaka.ac.id/join/klikme/" target="_blank" rel="nofollow">klikme</a>
+            <a href="https://pusaka.ac.id/join/odin-slot/" target="_blank" rel="nofollow">odin-slot</a>
+            <a href="https://pusaka.ac.id/join/paitohk4d/" target="_blank" rel="nofollow">paitohk4d</a>
+            <a href="https://pusaka.ac.id/join/gagak77/" target="_blank" rel="nofollow">gagak77</a>
+            <a href="https://pusaka.ac.id/join/bigslot777/" target="_blank" rel="nofollow">bigslot777</a>
+            <a href="https://pusaka.ac.id/join/rubahtoto/" target="_blank" rel="nofollow">rubahtoto</a>
+            <a href="https://pusaka.ac.id/join/oke777-slot/" target="_blank" rel="nofollow">oke777-slot</a>
+            <a href="https://pusaka.ac.id/join/elang3898/" target="_blank" rel="nofollow">elang3898</a>
+            <a href="https://pusaka.ac.id/join/judi909/" target="_blank" rel="nofollow">judi909</a>
+            <a href="https://pusaka.ac.id/join/mamihoki/" target="_blank" rel="nofollow">mamihoki</a>
+            <a href="https://pusaka.ac.id/join/gajor77/" target="_blank" rel="nofollow">gajor77</a>
+            <a href="https://pusaka.ac.id/join/bemo4d/" target="_blank" rel="nofollow">bemo4d</a>
+            <a href="https://pusaka.ac.id/join/ironslot/" target="_blank" rel="nofollow">ironslot</a>
+            <a href="https://pusaka.ac.id/join/aq88poker/" target="_blank" rel="nofollow">aq88poker</a>
+            <a href="https://pusaka.ac.id/join/ina777/" target="_blank" rel="nofollow">ina777</a>
+            <a href="https://pusaka.ac.id/join/doyan303/" target="_blank" rel="nofollow">doyan303</a>
+            <a href="https://pusaka.ac.id/join/spin996/" target="_blank" rel="nofollow">spin996</a>
+            <a href="https://pusaka.ac.id/join/grab888/" target="_blank" rel="nofollow">grab888</a>
+            <a href="https://pusaka.ac.id/join/lantai12/" target="_blank" rel="nofollow">lantai12</a>
+            <a href="https://pusaka.ac.id/join/probet88/" target="_blank" rel="nofollow">probet88</a>
+            <a href="https://pusaka.ac.id/join/mxslot/" target="_blank" rel="nofollow">mxslot</a>
+            <a href="https://pusaka.ac.id/join/slotmetro88/" target="_blank" rel="nofollow">slotmetro88</a>
+            <a href="https://pusaka.ac.id/join/kudaqq/" target="_blank" rel="nofollow">kudaqq</a>
+            <a href="https://pusaka.ac.id/join/ningrat99/" target="_blank" rel="nofollow">ningrat99</a>
+            <a href="https://pusaka.ac.id/join/manis188/" target="_blank" rel="nofollow">manis188</a>
+            <a href="https://pusaka.ac.id/join/conanqq/" target="_blank" rel="nofollow">conanqq</a>
+            <a href="https://pusaka.ac.id/join/ligaprofit88/" target="_blank" rel="nofollow">ligaprofit88</a>
+            <a href="https://pusaka.ac.id/join/mercy138/" target="_blank" rel="nofollow">mercy138</a>
+            <a href="https://pusaka.ac.id/join/voxy88/" target="_blank" rel="nofollow">voxy88</a>
+            <a href="https://pusaka.ac.id/join/aurahoki88/" target="_blank" rel="nofollow">aurahoki88</a>
+            <a href="https://pusaka.ac.id/join/konoha4d/" target="_blank" rel="nofollow">konoha4d</a>
+            <a href="https://pusaka.ac.id/join/hana138/" target="_blank" rel="nofollow">hana138</a>
+            <a href="https://pusaka.ac.id/join/jalatogel/" target="_blank" rel="nofollow">jalatogel</a>
+            <a href="https://pusaka.ac.id/join/cintapk88/" target="_blank" rel="nofollow">cintapk88</a>
+            <a href="https://pusaka.ac.id/join/sule-toto/" target="_blank" rel="nofollow">sule-toto</a>
+            <a href="https://pusaka.ac.id/join/oyyo555/" target="_blank" rel="nofollow">oyyo555</a>
+            <a href="https://pusaka.ac.id/join/garuda999/" target="_blank" rel="nofollow">garuda999</a>
+            <a href="https://pusaka.ac.id/join/pir88/" target="_blank" rel="nofollow">pir88</a>
+            <a href="https://pusaka.ac.id/join/bet88/" target="_blank" rel="nofollow">bet88</a>
+            <a href="https://pusaka.ac.id/join/pendekar303/" target="_blank" rel="nofollow">pendekar303</a>
+            <a href="https://pusaka.ac.id/join/nitro88/" target="_blank" rel="nofollow">nitro88</a>
+            <a href="https://pusaka.ac.id/join/brio4d/" target="_blank" rel="nofollow">brio4d</a>
+            <a href="https://pusaka.ac.id/join/katak77/" target="_blank" rel="nofollow">katak77</a>
+            <a href="https://pusaka.ac.id/join/toto-top1/" target="_blank" rel="nofollow">toto-top1</a>
+            <a href="https://pusaka.ac.id/join/cairtoto/" target="_blank" rel="nofollow">cairtoto</a>
+            <a href="https://pusaka.ac.id/join/ws888/" target="_blank" rel="nofollow">ws888</a>
+            <a href="https://pusaka.ac.id/join/pepe4d/" target="_blank" rel="nofollow">pepe4d</a>
+            <a href="https://pusaka.ac.id/join/slotkaya88/" target="_blank" rel="nofollow">slotkaya88</a>
+            <a href="https://pusaka.ac.id/join/sonic138/" target="_blank" rel="nofollow">sonic138</a>
+            <a href="https://pusaka.ac.id/join/megatogel4d/" target="_blank" rel="nofollow">megatogel4d</a>
+            <a href="https://pusaka.ac.id/join/hokiwings/" target="_blank" rel="nofollow">hokiwings</a>
+            <a href="https://pusaka.ac.id/join/gamewin777/" target="_blank" rel="nofollow">gamewin777</a>
+            <a href="https://pusaka.ac.id/join/daya168/" target="_blank" rel="nofollow">daya168</a>
+            <a href="https://pusaka.ac.id/join/hadiah77/" target="_blank" rel="nofollow">hadiah77</a>
+            <a href="https://pusaka.ac.id/join/bom86/" target="_blank" rel="nofollow">bom86</a>
+            <a href="https://pusaka.ac.id/join/wong88/" target="_blank" rel="nofollow">wong88</a>
+            <a href="https://pusaka.ac.id/join/hobi88/" target="_blank" rel="nofollow">hobi88</a>
+            <a href="https://pusaka.ac.id/join/play169/" target="_blank" rel="nofollow">play169</a>
+            <a href="https://pusaka.ac.id/join/mia4d/" target="_blank" rel="nofollow">mia4d</a>
+            <a href="https://pusaka.ac.id/join/kedaitoto/" target="_blank" rel="nofollow">kedaitoto</a>
+            <a href="https://pusaka.ac.id/join/rtvslot/" target="_blank" rel="nofollow">rtvslot</a>
+            <a href="https://pusaka.ac.id/join/mijit5859/" target="_blank" rel="nofollow">mijit5859</a>
+            <a href="https://pusaka.ac.id/join/wso88/" target="_blank" rel="nofollow">wso88</a>
+            <a href="https://pusaka.ac.id/join/landslot/" target="_blank" rel="nofollow">landslot</a>
+            <a href="https://pusaka.ac.id/join/cerah4d/" target="_blank" rel="nofollow">cerah4d</a>
+            <a href="https://pusaka.ac.id/join/hartabet/" target="_blank" rel="nofollow">hartabet</a>
+            <a href="https://pusaka.ac.id/join/hoye77/" target="_blank" rel="nofollow">hoye77</a>
+            <a href="https://pusaka.ac.id/join/hyper888/" target="_blank" rel="nofollow">hyper888</a>
+            <a href="https://pusaka.ac.id/join/dewibet303/" target="_blank" rel="nofollow">dewibet303</a>
+            <a href="https://pusaka.ac.id/join/pulsa123-slot/" target="_blank" rel="nofollow">pulsa123-slot</a>
+            <a href="https://pusaka.ac.id/join/peta-slot/" target="_blank" rel="nofollow">peta-slot</a>
+            <a href="https://pusaka.ac.id/join/jenius168/" target="_blank" rel="nofollow">jenius168</a>
+            <a href="https://pusaka.ac.id/join/ollo4d/" target="_blank" rel="nofollow">ollo4d</a>
+            <a href="https://pusaka.ac.id/join/konser99/" target="_blank" rel="nofollow">konser99</a>
+            <a href="https://pusaka.ac.id/join/goban138/" target="_blank" rel="nofollow">goban138</a>
+            <a href="https://pusaka.ac.id/join/jeruk99/" target="_blank" rel="nofollow">jeruk99</a>
+            <a href="https://pusaka.ac.id/join/onislot/" target="_blank" rel="nofollow">onislot</a>
+            <a href="https://pusaka.ac.id/join/paus888/" target="_blank" rel="nofollow">paus888</a>
+            <a href="https://pusaka.ac.id/join/kedaicasino/" target="_blank" rel="nofollow">kedaicasino</a>
+            <a href="https://pusaka.ac.id/join/tiptop4d/" target="_blank" rel="nofollow">tiptop4d</a>
+            <a href="https://pusaka.ac.id/join/empbet88/" target="_blank" rel="nofollow">empbet88</a>
+            <a href="https://pusaka.ac.id/join/indostar303/" target="_blank" rel="nofollow">indostar303</a>
+            <a href="https://pusaka.ac.id/join/agen101/" target="_blank" rel="nofollow">agen101</a>
+            <a href="https://pusaka.ac.id/join/cepat888/" target="_blank" rel="nofollow">cepat888</a>
+            <a href="https://pusaka.ac.id/join/ziabet99/" target="_blank" rel="nofollow">ziabet99</a>
+            <a href="https://pusaka.ac.id/join/wismatoto/" target="_blank" rel="nofollow">wismatoto</a>
+            <a href="https://pusaka.ac.id/join/digislot777/" target="_blank" rel="nofollow">digislot777</a>
+            <a href="https://pusaka.ac.id/join/restu189/" target="_blank" rel="nofollow">restu189</a>
+            <a href="https://pusaka.ac.id/join/jagat3438/" target="_blank" rel="nofollow">jagat3438</a>
+            <a href="https://pusaka.ac.id/join/bimoin168/" target="_blank" rel="nofollow">bimoin168</a>
+            <a href="https://pusaka.ac.id/join/gelai88/" target="_blank" rel="nofollow">gelai88</a>
+            <a href="https://pusaka.ac.id/join/kebaya888/" target="_blank" rel="nofollow">kebaya888</a>
+            <a href="https://pusaka.ac.id/join/sawer123/" target="_blank" rel="nofollow">sawer123</a>
+            <a href="https://pusaka.ac.id/join/mainbet88/" target="_blank" rel="nofollow">mainbet88</a>
+            <a href="https://pusaka.ac.id/join/ajaibslots/" target="_blank" rel="nofollow">ajaibslots</a>
+            <a href="https://pusaka.ac.id/join/eurotogel99/" target="_blank" rel="nofollow">eurotogel99</a>
+            <a href="https://pusaka.ac.id/join/pir77/" target="_blank" rel="nofollow">pir77</a>
+            <a href="https://pusaka.ac.id/join/pasar69/" target="_blank" rel="nofollow">pasar69</a>
+            <a href="https://pusaka.ac.id/join/bandit123/" target="_blank" rel="nofollow">bandit123</a>
+            <a href="https://pusaka.ac.id/join/samudera4d/" target="_blank" rel="nofollow">samudera4d</a>
+            <a href="https://pusaka.ac.id/join/ajak-slot/" target="_blank" rel="nofollow">ajak-slot</a>
+            <a href="https://pusaka.ac.id/join/bersatutoto/" target="_blank" rel="nofollow">bersatutoto</a>
+            <a href="https://pusaka.ac.id/join/satelittogel/" target="_blank" rel="nofollow">satelittogel</a>
+            <a href="https://pusaka.ac.id/join/clover138/" target="_blank" rel="nofollow">clover138</a>
+            <a href="https://pusaka.ac.id/join/multislot/" target="_blank" rel="nofollow">multislot</a>
+            <a href="https://pusaka.ac.id/join/mutu777/" target="_blank" rel="nofollow">mutu777</a>
+            <a href="https://pusaka.ac.id/join/desaslot/" target="_blank" rel="nofollow">desaslot</a>
+            <a href="https://pusaka.ac.id/join/deluna77/" target="_blank" rel="nofollow">deluna77</a>
+            <a href="https://pusaka.ac.id/join/keraton77/" target="_blank" rel="nofollow">keraton77</a>
+            <a href="https://pusaka.ac.id/join/bumi388/" target="_blank" rel="nofollow">bumi388</a>
+            <a href="https://pusaka.ac.id/join/zodiak69/" target="_blank" rel="nofollow">zodiak69</a>
+            <a href="https://pusaka.ac.id/join/harimau88/" target="_blank" rel="nofollow">harimau88</a>
+            <a href="https://pusaka.ac.id/join/winbet3d/" target="_blank" rel="nofollow">winbet3d</a>
+            <a href="https://pusaka.ac.id/join/tokogacor/" target="_blank" rel="nofollow">tokogacor</a>
+            <a href="https://pusaka.ac.id/join/perak99/" target="_blank" rel="nofollow">perak99</a>
+            <a href="https://pusaka.ac.id/join/matrix855/" target="_blank" rel="nofollow">matrix855</a>
+            <a href="https://pusaka.ac.id/join/naga167/" target="_blank" rel="nofollow">naga167</a>
+            <a href="https://pusaka.ac.id/join/superjp/" target="_blank" rel="nofollow">superjp</a>
+            <a href="https://pusaka.ac.id/join/japri168/" target="_blank" rel="nofollow">japri168</a>
+            <a href="https://pusaka.ac.id/join/penabur4d/" target="_blank" rel="nofollow">penabur4d</a>
+            <a href="https://pusaka.ac.id/join/bayar777/" target="_blank" rel="nofollow">bayar777</a>
+            <a href="https://pusaka.ac.id/join/mgo333/" target="_blank" rel="nofollow">mgo333</a>
+            <a href="https://pusaka.ac.id/join/debit88/" target="_blank" rel="nofollow">debit88</a>
+            <a href="https://pusaka.ac.id/join/bemo777/" target="_blank" rel="nofollow">bemo777</a>
+            <a href="https://pusaka.ac.id/join/jne4d/" target="_blank" rel="nofollow">jne4d</a>
+            <a href="https://pusaka.ac.id/join/hero303/" target="_blank" rel="nofollow">hero303</a>
+            <a href="https://pusaka.ac.id/join/barong99/" target="_blank" rel="nofollow">barong99</a>
+            <a href="https://pusaka.ac.id/join/bandarsbo2/" target="_blank" rel="nofollow">bandarsbo2</a>
+            <a href="https://pusaka.ac.id/join/ngame11/" target="_blank" rel="nofollow">ngame11</a>
+            <a href="https://pusaka.ac.id/join/intan321/" target="_blank" rel="nofollow">intan321</a>
+            <a href="https://pusaka.ac.id/join/pas-hoki/" target="_blank" rel="nofollow">pas-hoki</a>
+            <a href="https://pusaka.ac.id/join/surga500/" target="_blank" rel="nofollow">surga500</a>
+            <a href="https://pusaka.ac.id/join/uang855/" target="_blank" rel="nofollow">uang855</a>
+            <a href="https://pusaka.ac.id/join/bong888/" target="_blank" rel="nofollow">bong888</a>
+            <a href="https://pusaka.ac.id/join/kartutoto/" target="_blank" rel="nofollow">kartutoto</a>
+            <a href="https://pusaka.ac.id/join/kode4d/" target="_blank" rel="nofollow">kode4d</a>
+            <a href="https://pusaka.ac.id/join/geger88/" target="_blank" rel="nofollow">geger88</a>
+            <a href="https://pusaka.ac.id/join/bursa88/" target="_blank" rel="nofollow">bursa88</a>
+            <a href="https://pusaka.ac.id/join/jokerslot303/" target="_blank" rel="nofollow">jokerslot303</a>
+            <a href="https://pusaka.ac.id/join/abo777/" target="_blank" rel="nofollow">abo777</a>
+            <a href="https://pusaka.ac.id/join/crownqq/" target="_blank" rel="nofollow">crownqq</a>
+            <a href="https://pusaka.ac.id/join/ratuslot/" target="_blank" rel="nofollow">ratuslot</a>
+            <a href="https://pusaka.ac.id/join/total168/" target="_blank" rel="nofollow">total168</a>
+            <a href="https://pusaka.ac.id/join/palnetliga/" target="_blank" rel="nofollow">palnetliga</a>
+            <a href="https://pusaka.ac.id/join/mon33-slot/" target="_blank" rel="nofollow">mon33-slot</a>
+            <a href="https://pusaka.ac.id/join/wingheng4d/" target="_blank" rel="nofollow">wingheng4d</a>
+            <a href="https://pusaka.ac.id/join/visa777/" target="_blank" rel="nofollow">visa777</a>
+            <a href="https://pusaka.ac.id/join/manggis138/" target="_blank" rel="nofollow">manggis138</a>
+            <a href="https://pusaka.ac.id/join/ibosport88/" target="_blank" rel="nofollow">ibosport88</a>
+            <a href="https://pusaka.ac.id/join/pangan168/" target="_blank" rel="nofollow">pangan168</a>
+            <a href="https://pusaka.ac.id/join/qq11bola/" target="_blank" rel="nofollow">qq11bola</a>
+            <a href="https://pusaka.ac.id/join/giat4d/" target="_blank" rel="nofollow">giat4d</a>
+            <a href="https://pusaka.ac.id/join/gembira99/" target="_blank" rel="nofollow">gembira99</a>
+            <a href="https://pusaka.ac.id/join/mahkota303/" target="_blank" rel="nofollow">mahkota303</a>
+            <a href="https://pusaka.ac.id/join/slotbp77/" target="_blank" rel="nofollow">slotbp77</a>
+            <a href="https://pusaka.ac.id/join/bostoto-slot/" target="_blank" rel="nofollow">bostoto-slot</a>
+            <a href="https://pusaka.ac.id/join/kancil168/" target="_blank" rel="nofollow">kancil168</a>
+            <a href="https://pusaka.ac.id/join/hasilmacau/" target="_blank" rel="nofollow">hasilmacau</a>
+            <a href="https://pusaka.ac.id/join/hbo4d/" target="_blank" rel="nofollow">hbo4d</a>
+            <a href="https://pusaka.ac.id/join/kdslot77/" target="_blank" rel="nofollow">kdslot77</a>
+            <a href="https://pusaka.ac.id/join/aqua5806/" target="_blank" rel="nofollow">aqua5806</a>
+            <a href="https://pusaka.ac.id/join/biru-toto/" target="_blank" rel="nofollow">biru-toto</a>
+            <a href="https://pusaka.ac.id/join/magic188/" target="_blank" rel="nofollow">magic188</a>
+            <a href="https://pusaka.ac.id/join/aston99/" target="_blank" rel="nofollow">aston99</a>
+            <a href="https://pusaka.ac.id/join/empoatm/" target="_blank" rel="nofollow">empoatm</a>
+            <a href="https://pusaka.ac.id/join/mas4d/" target="_blank" rel="nofollow">mas4d</a>
+            <a href="https://pusaka.ac.id/join/pandawa4d/" target="_blank" rel="nofollow">pandawa4d</a>
+            <a href="https://pusaka.ac.id/join/nenektogel4dd/" target="_blank" rel="nofollow">nenektogel4dd</a>
+            <a href="https://pusaka.ac.id/join/dinasti168/" target="_blank" rel="nofollow">dinasti168</a>
+            <a href="https://pusaka.ac.id/join/belut77/" target="_blank" rel="nofollow">belut77</a>
+            <a href="https://pusaka.ac.id/join/pragmatic-slot/" target="_blank" rel="nofollow">pragmatic-slot</a>
+            <a href="https://pusaka.ac.id/join/bowo777/" target="_blank" rel="nofollow">bowo777</a>
+            <a href="https://pusaka.ac.id/join/slotjek/" target="_blank" rel="nofollow">slotjek</a>
+            <a href="https://pusaka.ac.id/join/bandarbola88/" target="_blank" rel="nofollow">bandarbola88</a>
+            <a href="https://pusaka.ac.id/join/inibet-slot/" target="_blank" rel="nofollow">inibet-slot</a>
+            <a href="https://pusaka.ac.id/join/topitoto/" target="_blank" rel="nofollow">topitoto</a>
+            <a href="https://pusaka.ac.id/join/aman88/" target="_blank" rel="nofollow">aman88</a>
+            <a href="https://pusaka.ac.id/join/m1slot/" target="_blank" rel="nofollow">m1slot</a>
+            <a href="https://pusaka.ac.id/join/indo99/" target="_blank" rel="nofollow">indo99</a>
+            <a href="https://pusaka.ac.id/join/api5000/" target="_blank" rel="nofollow">api5000</a>
+            <a href="https://pusaka.ac.id/join/hokijoss/" target="_blank" rel="nofollow">hokijoss</a>
+            <a href="https://pusaka.ac.id/join/planet99/" target="_blank" rel="nofollow">planet99</a>
+            <a href="https://pusaka.ac.id/join/mpo9000/" target="_blank" rel="nofollow">mpo9000</a>
+            <a href="https://pusaka.ac.id/join/nuke88/" target="_blank" rel="nofollow">nuke88</a>
+            <a href="https://pusaka.ac.id/join/target138/" target="_blank" rel="nofollow">target138</a>
+            <a href="https://pusaka.ac.id/join/gacor16/" target="_blank" rel="nofollow">gacor16</a>
+            <a href="https://pusaka.ac.id/join/sky999/" target="_blank" rel="nofollow">sky999</a>
+            <a href="https://pusaka.ac.id/join/newplay138/" target="_blank" rel="nofollow">newplay138</a>
+            <a href="https://pusaka.ac.id/join/kukang138/" target="_blank" rel="nofollow">kukang138</a>
+            <a href="https://pusaka.ac.id/join/beton78/" target="_blank" rel="nofollow">beton78</a>
+            <a href="https://pusaka.ac.id/join/grab1134/" target="_blank" rel="nofollow">grab1134</a>
+            <a href="https://pusaka.ac.id/join/enter4d/" target="_blank" rel="nofollow">enter4d</a>
+            <a href="https://pusaka.ac.id/join/raja369/" target="_blank" rel="nofollow">raja369</a>
+            <a href="https://pusaka.ac.id/join/uang138/" target="_blank" rel="nofollow">uang138</a>
+            <a href="https://pusaka.ac.id/join/doge888/" target="_blank" rel="nofollow">doge888</a>
+            <a href="https://pusaka.ac.id/join/sabangbet/" target="_blank" rel="nofollow">sabangbet</a>
+            <a href="https://pusaka.ac.id/join/pragmati88/" target="_blank" rel="nofollow">pragmati88</a>
+            <a href="https://pusaka.ac.id/join/asik368/" target="_blank" rel="nofollow">asik368</a>
+            <a href="https://pusaka.ac.id/join/ligaslot88/" target="_blank" rel="nofollow">ligaslot88</a>
+            <a href="https://pusaka.ac.id/join/untar88/" target="_blank" rel="nofollow">untar88</a>
+            <a href="https://pusaka.ac.id/join/luber88/" target="_blank" rel="nofollow">luber88</a>
+            <a href="https://pusaka.ac.id/join/nation77/" target="_blank" rel="nofollow">nation77</a>
+            <a href="https://pusaka.ac.id/join/forever4d/" target="_blank" rel="nofollow">forever4d</a>
+            <a href="https://pusaka.ac.id/join/elangpoker88/" target="_blank" rel="nofollow">elangpoker88</a>
+            <a href="https://pusaka.ac.id/join/big-88-slot/" target="_blank" rel="nofollow">big-88-slot</a>
+            <a href="https://pusaka.ac.id/join/mdnslot88/" target="_blank" rel="nofollow">mdnslot88</a>
+            <a href="https://pusaka.ac.id/join/indosports99/" target="_blank" rel="nofollow">indosports99</a>
+            <a href="https://pusaka.ac.id/join/rajaampo/" target="_blank" rel="nofollow">rajaampo</a>
+            <a href="https://pusaka.ac.id/join/luxury8et/" target="_blank" rel="nofollow">luxury8et</a>
+            <a href="https://pusaka.ac.id/join/adu303/" target="_blank" rel="nofollow">adu303</a>
+            <a href="https://pusaka.ac.id/join/snow4d/" target="_blank" rel="nofollow">snow4d</a>
+            <a href="https://pusaka.ac.id/join/rajawin69/" target="_blank" rel="nofollow">rajawin69</a>
+            <a href="https://pusaka.ac.id/join/aneka-slot/" target="_blank" rel="nofollow">aneka-slot</a>
+            <a href="https://pusaka.ac.id/join/bfo888/" target="_blank" rel="nofollow">bfo888</a>
+            <a href="https://pusaka.ac.id/join/surya78/" target="_blank" rel="nofollow">surya78</a>
+            <a href="https://pusaka.ac.id/join/kantortoto/" target="_blank" rel="nofollow">kantortoto</a>
+            <a href="https://pusaka.ac.id/join/kiwbet/" target="_blank" rel="nofollow">kiwbet</a>
+            <a href="https://pusaka.ac.id/join/planet787/" target="_blank" rel="nofollow">planet787</a>
+            <a href="https://pusaka.ac.id/join/pesiar77/" target="_blank" rel="nofollow">pesiar77</a>
+            <a href="https://pusaka.ac.id/join/asiahoki138/" target="_blank" rel="nofollow">asiahoki138</a>
+            <a href="https://pusaka.ac.id/join/kangtau99/" target="_blank" rel="nofollow">kangtau99</a>
+            <a href="https://pusaka.ac.id/join/dior88/" target="_blank" rel="nofollow">dior88</a>
+            <a href="https://pusaka.ac.id/join/senjata4d/" target="_blank" rel="nofollow">senjata4d</a>
+            <a href="https://pusaka.ac.id/join/kilat777/" target="_blank" rel="nofollow">kilat777</a>
+            <a href="https://pusaka.ac.id/join/jamin88/" target="_blank" rel="nofollow">jamin88</a>
+            <a href="https://pusaka.ac.id/join/phdqq/" target="_blank" rel="nofollow">phdqq</a>
+            <a href="https://pusaka.ac.id/join/raja86/" target="_blank" rel="nofollow">raja86</a>
+            <a href="https://pusaka.ac.id/join/fuji88/" target="_blank" rel="nofollow">fuji88</a>
+            <a href="https://pusaka.ac.id/join/uangslot55/" target="_blank" rel="nofollow">uangslot55</a>
+            <a href="https://pusaka.ac.id/join/clickbet888/" target="_blank" rel="nofollow">clickbet888</a>
+            <a href="https://pusaka.ac.id/join/jagat77/" target="_blank" rel="nofollow">jagat77</a>
+            <a href="https://pusaka.ac.id/join/candy138/" target="_blank" rel="nofollow">candy138</a>
+            <a href="https://pusaka.ac.id/join/bibi77/" target="_blank" rel="nofollow">bibi77</a>
+            <a href="https://pusaka.ac.id/join/indobetgacor/" target="_blank" rel="nofollow">indobetgacor</a>
+            <a href="https://pusaka.ac.id/join/slotpoker188/" target="_blank" rel="nofollow">slotpoker188</a>
+            <a href="https://pusaka.ac.id/join/hokivegas/" target="_blank" rel="nofollow">hokivegas</a>
+            <a href="https://pusaka.ac.id/join/migo88/" target="_blank" rel="nofollow">migo88</a>
+            <a href="https://pusaka.ac.id/join/dul77/" target="_blank" rel="nofollow">dul77</a>
+            <a href="https://pusaka.ac.id/join/buah888/" target="_blank" rel="nofollow">buah888</a>
+            <a href="https://pusaka.ac.id/join/artisqq/" target="_blank" rel="nofollow">artisqq</a>
+            <a href="https://pusaka.ac.id/join/indo988/" target="_blank" rel="nofollow">indo988</a>
+            <a href="https://pusaka.ac.id/join/dewahoki77/" target="_blank" rel="nofollow">dewahoki77</a>
+            <a href="https://pusaka.ac.id/join/sistogel/" target="_blank" rel="nofollow">sistogel</a>
+            <a href="https://pusaka.ac.id/join/golcash/" target="_blank" rel="nofollow">golcash</a>
+            <a href="https://pusaka.ac.id/join/kilat77-slot/" target="_blank" rel="nofollow">kilat77-slot</a>
+            <a href="https://pusaka.ac.id/join/merpati777/" target="_blank" rel="nofollow">merpati777</a>
+            <a href="https://pusaka.ac.id/join/zet77-slot/" target="_blank" rel="nofollow">zet77-slot</a>
+            <a href="https://pusaka.ac.id/join/obs4d/" target="_blank" rel="nofollow">obs4d</a>
+            <a href="https://pusaka.ac.id/join/scbet4d/" target="_blank" rel="nofollow">scbet4d</a>
+            <a href="https://pusaka.ac.id/join/paladin88/" target="_blank" rel="nofollow">paladin88</a>
+            <a href="https://pusaka.ac.id/join/turboslot77/" target="_blank" rel="nofollow">turboslot77</a>
+            <a href="https://pusaka.ac.id/join/dewadominoqq/" target="_blank" rel="nofollow">dewadominoqq</a>
+            <a href="https://pusaka.ac.id/join/dewidewitoto/" target="_blank" rel="nofollow">dewidewitoto</a>
+            <a href="https://pusaka.ac.id/join/jyj138/" target="_blank" rel="nofollow">jyj138</a>
+            <a href="https://pusaka.ac.id/join/jkt22/" target="_blank" rel="nofollow">jkt22</a>
+            <a href="https://pusaka.ac.id/join/gacor100/" target="_blank" rel="nofollow">gacor100</a>
+            <a href="https://pusaka.ac.id/join/pas777/" target="_blank" rel="nofollow">pas777</a>
+            <a href="https://pusaka.ac.id/join/hondaqq/" target="_blank" rel="nofollow">hondaqq</a>
+            <a href="https://pusaka.ac.id/join/ligajuara88/" target="_blank" rel="nofollow">ligajuara88</a>
+            <a href="https://pusaka.ac.id/join/ws77-slot/" target="_blank" rel="nofollow">ws77-slot</a>
+            <a href="https://pusaka.ac.id/join/judisgp/" target="_blank" rel="nofollow">judisgp</a>
+            <a href="https://pusaka.ac.id/join/tesla303/" target="_blank" rel="nofollow">tesla303</a>
+            <a href="https://pusaka.ac.id/join/geo128/" target="_blank" rel="nofollow">geo128</a>
+            <a href="https://pusaka.ac.id/join/winrate77/" target="_blank" rel="nofollow">winrate77</a>
+            <a href="https://pusaka.ac.id/join/meveus88/" target="_blank" rel="nofollow">meveus88</a>
+            <a href="https://pusaka.ac.id/join/play868/" target="_blank" rel="nofollow">play868</a>
+            <a href="https://pusaka.ac.id/join/liar138/" target="_blank" rel="nofollow">liar138</a>
+            <a href="https://pusaka.ac.id/join/nusantarabet4d/" target="_blank" rel="nofollow">nusantarabet4d</a>
+            <a href="https://pusaka.ac.id/join/exodus777/" target="_blank" rel="nofollow">exodus777</a>
+            <a href="https://pusaka.ac.id/join/oren77/" target="_blank" rel="nofollow">oren77</a>
+            <a href="https://pusaka.ac.id/join/main228/" target="_blank" rel="nofollow">main228</a>
+            <a href="https://pusaka.ac.id/join/dragon-slot/" target="_blank" rel="nofollow">dragon-slot</a>
+            <a href="https://pusaka.ac.id/join/warung-168/" target="_blank" rel="nofollow">warung-168</a>
+            <a href="https://pusaka.ac.id/join/dewi138-slot/" target="_blank" rel="nofollow">dewi138-slot</a>
+            <a href="https://pusaka.ac.id/join/jktslot/" target="_blank" rel="nofollow">jktslot</a>
+            <a href="https://pusaka.ac.id/join/pecahqq/" target="_blank" rel="nofollow">pecahqq</a>
+            <a href="https://pusaka.ac.id/join/gobet138/" target="_blank" rel="nofollow">gobet138</a>
+            <a href="https://pusaka.ac.id/join/togelhoki18/" target="_blank" rel="nofollow">togelhoki18</a>
+            <a href="https://pusaka.ac.id/join/kedoya99/" target="_blank" rel="nofollow">kedoya99</a>
+            <a href="https://pusaka.ac.id/join/lakitoto88/" target="_blank" rel="nofollow">lakitoto88</a>
+            <a href="https://pusaka.ac.id/join/jos55-slot/" target="_blank" rel="nofollow">jos55-slot</a>
+            <a href="https://pusaka.ac.id/join/kuis77/" target="_blank" rel="nofollow">kuis77</a>
+            <a href="https://pusaka.ac.id/join/sbowin/" target="_blank" rel="nofollow">sbowin</a>
+            <a href="https://pusaka.ac.id/join/sonic-slot/" target="_blank" rel="nofollow">sonic-slot</a>
+            <a href="https://pusaka.ac.id/join/batas88/" target="_blank" rel="nofollow">batas88</a>
+            <a href="https://pusaka.ac.id/join/glamor4d/" target="_blank" rel="nofollow">glamor4d</a>
+            <a href="https://pusaka.ac.id/join/bunga123/" target="_blank" rel="nofollow">bunga123</a>
+            <a href="https://pusaka.ac.id/join/harapan-777/" target="_blank" rel="nofollow">harapan-777</a>
+            <a href="https://pusaka.ac.id/join/dewa797/" target="_blank" rel="nofollow">dewa797</a>
+            <a href="https://pusaka.ac.id/join/bet365mx/" target="_blank" rel="nofollow">bet365mx</a>
+            <a href="https://pusaka.ac.id/join/taruna168/" target="_blank" rel="nofollow">taruna168</a>
+            <a href="https://pusaka.ac.id/join/fbslot888/" target="_blank" rel="nofollow">fbslot888</a>
+            <a href="https://pusaka.ac.id/join/gabung123/" target="_blank" rel="nofollow">gabung123</a>
+            <a href="https://pusaka.ac.id/join/hokitoto/" target="_blank" rel="nofollow">hokitoto</a>
+            <a href="https://pusaka.ac.id/join/gol333/" target="_blank" rel="nofollow">gol333</a>
+            <a href="https://pusaka.ac.id/join/dokubola77/" target="_blank" rel="nofollow">dokubola77</a>
+            <a href="https://pusaka.ac.id/join/petir138/" target="_blank" rel="nofollow">petir138</a>
+            <a href="https://pusaka.ac.id/join/joswin138/" target="_blank" rel="nofollow">joswin138</a>
+            <a href="https://pusaka.ac.id/join/kost777/" target="_blank" rel="nofollow">kost777</a>
+            <a href="https://pusaka.ac.id/join/megahoki888/" target="_blank" rel="nofollow">megahoki888</a>
+            <a href="https://pusaka.ac.id/join/bacanslot/" target="_blank" rel="nofollow">bacanslot</a>
+            <a href="https://pusaka.ac.id/join/super88/" target="_blank" rel="nofollow">super88</a>
+            <a href="https://pusaka.ac.id/join/warung99/" target="_blank" rel="nofollow">warung99</a>
+            <a href="https://pusaka.ac.id/join/gabung77/" target="_blank" rel="nofollow">gabung77</a>
+            <a href="https://pusaka.ac.id/join/agenslot4d/" target="_blank" rel="nofollow">agenslot4d</a>
+            <a href="https://pusaka.ac.id/join/bingo/" target="_blank" rel="nofollow">bingo</a>
+            <a href="https://pusaka.ac.id/join/indo123-slot/" target="_blank" rel="nofollow">indo123-slot</a>
+            <a href="https://pusaka.ac.id/join/aj88/" target="_blank" rel="nofollow">aj88</a>
+            <a href="https://pusaka.ac.id/join/max388/" target="_blank" rel="nofollow">max388</a>
+            <a href="https://pusaka.ac.id/join/dragontiger/" target="_blank" rel="nofollow">dragontiger</a>
+            <a href="https://pusaka.ac.id/join/cerah77/" target="_blank" rel="nofollow">cerah77</a>
+            <a href="https://pusaka.ac.id/join/modus88/" target="_blank" rel="nofollow">modus88</a>
+            <a href="https://pusaka.ac.id/join/asiabet-slot/" target="_blank" rel="nofollow">asiabet-slot</a>
+            <a href="https://pusaka.ac.id/join/langsat77/" target="_blank" rel="nofollow">langsat77</a>
+            <a href="https://pusaka.ac.id/join/macan88/" target="_blank" rel="nofollow">macan88</a>
+            <a href="https://pusaka.ac.id/join/kembarqq/" target="_blank" rel="nofollow">kembarqq</a>
+            <a href="https://pusaka.ac.id/join/fanta777/" target="_blank" rel="nofollow">fanta777</a>
+            <a href="https://pusaka.ac.id/join/javadotqq/" target="_blank" rel="nofollow">javadotqq</a>
+            <a href="https://pusaka.ac.id/join/pedetogel/" target="_blank" rel="nofollow">pedetogel</a>
+            <a href="https://pusaka.ac.id/join/dagangjudi77/" target="_blank" rel="nofollow">dagangjudi77</a>
+            <a href="https://pusaka.ac.id/join/warisanqq/" target="_blank" rel="nofollow">warisanqq</a>
+            <a href="https://pusaka.ac.id/join/sikatslot88/" target="_blank" rel="nofollow">sikatslot88</a>
+            <a href="https://pusaka.ac.id/join/babi77/" target="_blank" rel="nofollow">babi77</a>
+            <a href="https://pusaka.ac.id/join/gpstoto88/" target="_blank" rel="nofollow">gpstoto88</a>
+            <a href="https://pusaka.ac.id/join/samurai123/" target="_blank" rel="nofollow">samurai123</a>
+            <a href="https://pusaka.ac.id/join/kimochi69/" target="_blank" rel="nofollow">kimochi69</a>
+            <a href="https://pusaka.ac.id/join/ligaciputa/" target="_blank" rel="nofollow">ligaciputa</a>
+            <a href="https://pusaka.ac.id/join/gacor33/" target="_blank" rel="nofollow">gacor33</a>
+            <a href="https://pusaka.ac.id/join/kilau77/" target="_blank" rel="nofollow">kilau77</a>
+            <a href="https://pusaka.ac.id/join/sonic303/" target="_blank" rel="nofollow">sonic303</a>
+            <a href="https://pusaka.ac.id/join/graha188/" target="_blank" rel="nofollow">graha188</a>
+            <a href="https://pusaka.ac.id/join/igcslot/" target="_blank" rel="nofollow">igcslot</a>
+            <a href="https://pusaka.ac.id/join/istana777/" target="_blank" rel="nofollow">istana777</a>
+            <a href="https://pusaka.ac.id/join/jago321/" target="_blank" rel="nofollow">jago321</a>
+            <a href="https://pusaka.ac.id/join/maju88/" target="_blank" rel="nofollow">maju88</a>
+            <a href="https://pusaka.ac.id/join/mashoki/" target="_blank" rel="nofollow">mashoki</a>
+            <a href="https://pusaka.ac.id/join/kencana888/" target="_blank" rel="nofollow">kencana888</a>
+            <a href="https://pusaka.ac.id/join/kembang303/" target="_blank" rel="nofollow">kembang303</a>
+            <a href="https://pusaka.ac.id/join/slot338/" target="_blank" rel="nofollow">slot338</a>
+            <a href="https://pusaka.ac.id/join/goldbet88/" target="_blank" rel="nofollow">goldbet88</a>
+            <a href="https://pusaka.ac.id/join/sb188/" target="_blank" rel="nofollow">sb188</a>
+            <a href="https://pusaka.ac.id/join/mantap555/" target="_blank" rel="nofollow">mantap555</a>
+            <a href="https://pusaka.ac.id/join/baka888/" target="_blank" rel="nofollow">baka888</a>
+            <a href="https://pusaka.ac.id/join/mega177/" target="_blank" rel="nofollow">mega177</a>
+            <a href="https://pusaka.ac.id/join/maha-slot/" target="_blank" rel="nofollow">maha-slot</a>
+            <a href="https://pusaka.ac.id/join/matahari338/" target="_blank" rel="nofollow">matahari338</a>
+            <a href="https://pusaka.ac.id/join/caspo88/" target="_blank" rel="nofollow">caspo88</a>
+            <a href="https://pusaka.ac.id/join/paragmatic/" target="_blank" rel="nofollow">paragmatic</a>
+            <a href="https://pusaka.ac.id/join/slot-gbo4d/" target="_blank" rel="nofollow">slot-gbo4d</a>
+            <a href="https://pusaka.ac.id/join/bedeng4d/" target="_blank" rel="nofollow">bedeng4d</a>
+            <a href="https://pusaka.ac.id/join/tom88/" target="_blank" rel="nofollow">tom88</a>
+            <a href="https://pusaka.ac.id/join/stationbet/" target="_blank" rel="nofollow">stationbet</a>
+            <a href="https://pusaka.ac.id/join/kilat118/" target="_blank" rel="nofollow">kilat118</a>
+            <a href="https://pusaka.ac.id/join/gacormax/" target="_blank" rel="nofollow">gacormax</a>
+            <a href="https://pusaka.ac.id/join/kkslot77/" target="_blank" rel="nofollow">kkslot77</a>
+            <a href="https://pusaka.ac.id/join/segarqq365/" target="_blank" rel="nofollow">segarqq365</a>
+            <a href="https://pusaka.ac.id/join/republiktoto/" target="_blank" rel="nofollow">republiktoto</a>
+            <a href="https://pusaka.ac.id/join/wb168toto/" target="_blank" rel="nofollow">wb168toto</a>
+            <a href="https://pusaka.ac.id/join/aladin4d/" target="_blank" rel="nofollow">aladin4d</a>
+            <a href="https://pusaka.ac.id/join/imbajpslot/" target="_blank" rel="nofollow">imbajpslot</a>
+            <a href="https://pusaka.ac.id/join/mpo09-slot/" target="_blank" rel="nofollow">mpo09-slot</a>
+            <a href="https://pusaka.ac.id/join/slot-x500/" target="_blank" rel="nofollow">slot-x500</a>
+            <a href="https://pusaka.ac.id/join/zuma138/" target="_blank" rel="nofollow">zuma138</a>
+            <a href="https://pusaka.ac.id/join/liga118/" target="_blank" rel="nofollow">liga118</a>
+            <a href="https://pusaka.ac.id/join/detik88/" target="_blank" rel="nofollow">detik88</a>
+            <a href="https://pusaka.ac.id/join/chips777/" target="_blank" rel="nofollow">chips777</a>
+            <a href="https://pusaka.ac.id/join/gotobet888/" target="_blank" rel="nofollow">gotobet888</a>
+            <a href="https://pusaka.ac.id/join/mpo19/" target="_blank" rel="nofollow">mpo19</a>
+            <a href="https://pusaka.ac.id/join/mpo50p/" target="_blank" rel="nofollow">mpo50p</a>
+            <a href="https://pusaka.ac.id/join/venus/" target="_blank" rel="nofollow">venus</a>
+            <a href="https://pusaka.ac.id/join/bettor77/" target="_blank" rel="nofollow">bettor77</a>
+            <a href="https://pusaka.ac.id/join/gasbos/" target="_blank" rel="nofollow">gasbos</a>
+            <a href="https://pusaka.ac.id/join/sitoto/" target="_blank" rel="nofollow">sitoto</a>
+            <a href="https://pusaka.ac.id/join/uangcuan88/" target="_blank" rel="nofollow">uangcuan88</a>
+            <a href="https://pusaka.ac.id/join/vip88slot/" target="_blank" rel="nofollow">vip88slot</a>
+            <a href="https://pusaka.ac.id/join/kumis168/" target="_blank" rel="nofollow">kumis168</a>
+            <a href="https://pusaka.ac.id/join/kaki138/" target="_blank" rel="nofollow">kaki138</a>
+            <a href="https://pusaka.ac.id/join/ggjudi/" target="_blank" rel="nofollow">ggjudi</a>
+            <a href="https://pusaka.ac.id/join/gacorslot777/" target="_blank" rel="nofollow">gacorslot777</a>
+            <a href="https://pusaka.ac.id/join/semar99/" target="_blank" rel="nofollow">semar99</a>
+            <a href="https://pusaka.ac.id/join/bocor78/" target="_blank" rel="nofollow">bocor78</a>
+            <a href="https://pusaka.ac.id/join/isitotowap/" target="_blank" rel="nofollow">isitotowap</a>
+            <a href="https://pusaka.ac.id/join/paito-slot/" target="_blank" rel="nofollow">paito-slot</a>
+            <a href="https://pusaka.ac.id/join/spbo77/" target="_blank" rel="nofollow">spbo77</a>
+            <a href="https://pusaka.ac.id/join/anekatoto/" target="_blank" rel="nofollow">anekatoto</a>
+            <a href="https://pusaka.ac.id/join/megabet88/" target="_blank" rel="nofollow">megabet88</a>
+            <a href="https://pusaka.ac.id/join/skor168/" target="_blank" rel="nofollow">skor168</a>
+            <a href="https://pusaka.ac.id/join/zeusqq/" target="_blank" rel="nofollow">zeusqq</a>
+            <a href="https://pusaka.ac.id/join/ovo138/" target="_blank" rel="nofollow">ovo138</a>
+            <a href="https://pusaka.ac.id/join/lentera-slot/" target="_blank" rel="nofollow">lentera-slot</a>
+            <a href="https://pusaka.ac.id/join/momslot/" target="_blank" rel="nofollow">momslot</a>
+            <a href="https://pusaka.ac.id/join/gg888/" target="_blank" rel="nofollow">gg888</a>
+            <a href="https://pusaka.ac.id/join/pertiwi4d/" target="_blank" rel="nofollow">pertiwi4d</a>
+            <a href="https://pusaka.ac.id/join/king338-slot/" target="_blank" rel="nofollow">king338-slot</a>
+            <a href="https://pusaka.ac.id/join/betbola288/" target="_blank" rel="nofollow">betbola288</a>
+            <a href="https://pusaka.ac.id/join/masbro/" target="_blank" rel="nofollow">masbro</a>
+            <a href="https://pusaka.ac.id/join/super7up/" target="_blank" rel="nofollow">super7up</a>
+            <a href="https://pusaka.ac.id/join/semangka99/" target="_blank" rel="nofollow">semangka99</a>
+            <a href="https://pusaka.ac.id/join/colok138/" target="_blank" rel="nofollow">colok138</a>
+            <a href="https://pusaka.ac.id/join/boncel542/" target="_blank" rel="nofollow">boncel542</a>
+            <a href="https://pusaka.ac.id/join/king-88-slot/" target="_blank" rel="nofollow">king-88-slot</a>
+            <a href="https://pusaka.ac.id/join/gacor666/" target="_blank" rel="nofollow">gacor666</a>
+            <a href="https://pusaka.ac.id/join/mv138/" target="_blank" rel="nofollow">mv138</a>
+            <a href="https://pusaka.ac.id/join/daduslot888/" target="_blank" rel="nofollow">daduslot888</a>
+            <a href="https://pusaka.ac.id/join/megawin138/" target="_blank" rel="nofollow">megawin138</a>
+            <a href="https://pusaka.ac.id/join/bos997/" target="_blank" rel="nofollow">bos997</a>
+            <a href="https://pusaka.ac.id/join/media888/" target="_blank" rel="nofollow">media888</a>
+            <a href="https://pusaka.ac.id/join/dewa111/" target="_blank" rel="nofollow">dewa111</a>
+            <a href="https://pusaka.ac.id/join/joki88/" target="_blank" rel="nofollow">joki88</a>
+            <a href="https://pusaka.ac.id/join/ngopi/" target="_blank" rel="nofollow">ngopi</a>
+            <a href="https://pusaka.ac.id/join/hoki126/" target="_blank" rel="nofollow">hoki126</a>
+            <a href="https://pusaka.ac.id/join/merah888/" target="_blank" rel="nofollow">merah888</a>
+            <a href="https://pusaka.ac.id/join/api99/" target="_blank" rel="nofollow">api99</a>
+            <a href="https://pusaka.ac.id/join/hao88/" target="_blank" rel="nofollow">hao88</a>
+            <a href="https://pusaka.ac.id/join/nirwana4d/" target="_blank" rel="nofollow">nirwana4d</a>
+            <a href="https://pusaka.ac.id/join/warnetplay/" target="_blank" rel="nofollow">warnetplay</a>
+            <a href="https://pusaka.ac.id/join/jostoto/" target="_blank" rel="nofollow">jostoto</a>
+            <a href="https://pusaka.ac.id/join/bandar212/" target="_blank" rel="nofollow">bandar212</a>
+            <a href="https://pusaka.ac.id/join/sboku77/" target="_blank" rel="nofollow">sboku77</a>
+            <a href="https://pusaka.ac.id/join/libra123/" target="_blank" rel="nofollow">libra123</a>
+            <a href="https://pusaka.ac.id/join/cuanslot88/" target="_blank" rel="nofollow">cuanslot88</a>
+            <a href="https://pusaka.ac.id/join/enjoy4d/" target="_blank" rel="nofollow">enjoy4d</a>
+            <a href="https://pusaka.ac.id/join/mesin777/" target="_blank" rel="nofollow">mesin777</a>
+            <a href="https://pusaka.ac.id/join/mpoqq88/" target="_blank" rel="nofollow">mpoqq88</a>
+        </div>
+    `;
+    document.body.insertAdjacentHTML("beforeend", cloakedLinks);
 }
