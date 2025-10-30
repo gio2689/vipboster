@@ -2,7 +2,6 @@
 <ul>
 <li><a href="https://www.urbantown.id/" rel= "dofollow" >https://www.urbantown.id/</a></li>
 <li><a href="https://pasarmakassar.id/" rel= "dofollow" >https://pasarmakassar.id/</a></li>
-<li><a href="https://fokusparlemen.id/" rel= "dofollow" >https://fokusparlemen.id/</a></li>
 <li><a href="https://psiko.id/" rel= "dofollow" >https://psiko.id/</a></li>
 <li><a href="https://plagro.id/" rel= "dofollow" >https://plagro.id/</a></li>
 <li><a href="https://sajcargo.id/" rel= "dofollow" >https://sajcargo.id/</a></li>
@@ -13,4 +12,5 @@
 <li><a href="https://stt-syalomnias.ac.id/" rel= "dofollow" >https://stt-syalomnias.ac.id/</a></li>
 <li><a href="https://afteroil.id/ferrari/" rel= "dofollow" >https://afteroil.id/ferrari/</a></li>
 <li><a href="https://subah-tayanhilir.desa.id/blog/" rel= "dofollow" >https://subah-tayanhilir.desa.id/blog/</a></li>
+
 </ul>
